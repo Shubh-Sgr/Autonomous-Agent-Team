@@ -8,3 +8,6 @@ python_version: '3.13'
 app_file: main.py
 pinned: false
 short_description: A multi agent system for research
+
+
+Live Demo Link:- https://huggingface.co/spaces/Shubh-91/Research-Agent
