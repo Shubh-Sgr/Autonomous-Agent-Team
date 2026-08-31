@@ -1,13 +1,13 @@
-title: Research Agent
-emoji: 📉
-colorFrom: yellow
-colorTo: blue
-sdk: gradio
-sdk_version: 6.14.0
-python_version: '3.13'
-app_file: main.py
+---
+title: Reseach Agent
+emoji: 🚀
+colorFrom: blue
+colorTo: indigo
+sdk: streamlit
+sdk_version: 1.38.0
+app_file: app.py
 pinned: false
-short_description: A multi agent system for research
+---
 
-
-Live Demo Link:- https://huggingface.co/spaces/Shubh-91/Research-Agent
+# My Application
+https://huggingface.co/spaces/Shubh-91/Research-Agent
