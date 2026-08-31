@@ -12,7 +12,7 @@ from langchain_groq import ChatGroq
 # 2. Configuration
 os.environ["GROQ_API_KEY"] = os.getenv("GROQ_API_KEY", "your_api_key_here")
 
-llm = ChatGroq(model="llama-3.3-70b-versatile", temperature=0.7)
+llm = ChatGroq(model="openai/gpt-oss-120b", temperature=0.7)
 
 class AgentState(TypedDict):
     task: str
