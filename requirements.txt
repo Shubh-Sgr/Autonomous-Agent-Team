@@ -1,4 +1,4 @@
-langgraph>=0.2.20
+langgraph
 langchain-groq
-gradio
 python-dotenv
+gradio>=5.0.0
